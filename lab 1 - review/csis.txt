@@ -1,0 +1,459 @@
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Decimal -> Binary
+[2] Decimal -> Hex
+[3] Binary -> Decimal
+[4] Binary -> Hex
+[5] Hex -> Decimal
+[6] Hex -> Binary
+[7] Exit & Save
+
+Select option[?]: 1
+-------------------------------------
+[1] Decimal -> Binary
+
+Enter Decimal: 65535
+[Decimal] 65535 = 0000 0000 0000 0000 1111 1111 1111 1111 [Binary]
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Decimal -> Binary
+[2] Decimal -> Hex
+[3] Binary -> Decimal
+[4] Binary -> Hex
+[5] Hex -> Decimal
+[6] Hex -> Binary
+[7] Exit & Save
+
+Select option[?]: 1
+-------------------------------------
+[1] Decimal -> Binary
+
+Enter Decimal: 1000000
+[Decimal] 1000000 = 0000 0000 0000 1111 0100 0010 0100 0000 [Binary]
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Decimal -> Binary
+[2] Decimal -> Hex
+[3] Binary -> Decimal
+[4] Binary -> Hex
+[5] Hex -> Decimal
+[6] Hex -> Binary
+[7] Exit & Save
+
+Select option[?]: 1
+-------------------------------------
+[1] Decimal -> Binary
+
+Enter Decimal: 1234567890
+[Decimal] 1234567890 = 0100 1001 1001 0110 0000 0010 1101 0010 [Binary]
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Decimal -> Binary
+[2] Decimal -> Hex
+[3] Binary -> Decimal
+[4] Binary -> Hex
+[5] Hex -> Decimal
+[6] Hex -> Binary
+[7] Exit & Save
+
+Select option[?]: 2
+-------------------------------------
+[2] Decimal -> Hex
+
+Enter Decimal: 65535
+[Decimal] 65535 = FFFF [Hex]
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Decimal -> Binary
+[2] Decimal -> Hex
+[3] Binary -> Decimal
+[4] Binary -> Hex
+[5] Hex -> Decimal
+[6] Hex -> Binary
+[7] Exit & Save
+
+Select option[?]: 2
+-------------------------------------
+[2] Decimal -> Hex
+
+Enter Decimal: 1000000
+[Decimal] 1000000 = F4240 [Hex]
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Decimal -> Binary
+[2] Decimal -> Hex
+[3] Binary -> Decimal
+[4] Binary -> Hex
+[5] Hex -> Decimal
+[6] Hex -> Binary
+[7] Exit & Save
+
+Select option[?]: 2
+-------------------------------------
+[2] Decimal -> Hex
+
+Enter Decimal: 1234567890
+[Decimal] 1234567890 = 499602D2 [Hex]
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Decimal -> Binary
+[2] Decimal -> Hex
+[3] Binary -> Decimal
+[4] Binary -> Hex
+[5] Hex -> Decimal
+[6] Hex -> Binary
+[7] Exit & Save
+
+Select option[?]: 3
+-------------------------------------
+[3] Binary -> Decimal
+
+Enter 32-bit Binary: 0110 0101 1100 1101 1010 1110 0000 0101
+[Binary] 01100101110011011010111000000101 = 1707978245 [Decimal]
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Decimal -> Binary
+[2] Decimal -> Hex
+[3] Binary -> Decimal
+[4] Binary -> Hex
+[5] Hex -> Decimal
+[6] Hex -> Binary
+[7] Exit & Save
+
+Select option[?]: 3
+-------------------------------------
+[3] Binary -> Decimal
+
+Enter 32-bit Binary: 0111 1111 1111 1111 0010 0001 1101 0011
+[Binary] 01111111111111110010000111010011 = 2147426771 [Decimal]
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Decimal -> Binary
+[2] Decimal -> Hex
+[3] Binary -> Decimal
+[4] Binary -> Hex
+[5] Hex -> Decimal
+[6] Hex -> Binary
+[7] Exit & Save
+
+Select option[?]: 3
+-------------------------------------
+[3] Binary -> Decimal
+
+Enter 32-bit Binary: 0000 0000 0000 0000 0000 0000 0000 0010
+[Binary] 00000000000000000000000000000010 = 2 [Decimal]
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Decimal -> Binary
+[2] Decimal -> Hex
+[3] Binary -> Decimal
+[4] Binary -> Hex
+[5] Hex -> Decimal
+[6] Hex -> Binary
+[7] Exit & Save
+
+Select option[?]: 4
+-------------------------------------
+[4] Binary -> Hex
+
+Enter 32-bit Binary: 0110 0101 1100 1101 1010 1110 0000 0101
+[Binary] 01100101110011011010111000000101 = 65CDAE05 [Hex]
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Decimal -> Binary
+[2] Decimal -> Hex
+[3] Binary -> Decimal
+[4] Binary -> Hex
+[5] Hex -> Decimal
+[6] Hex -> Binary
+[7] Exit & Save
+
+Select option[?]: 4
+-------------------------------------
+[4] Binary -> Hex
+
+Enter 32-bit Binary: 0111 1111 1111 1111 0010 0001 1101 0011
+[Binary] 01111111111111110010000111010011 = 7FFF21D3 [Hex]
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Decimal -> Binary
+[2] Decimal -> Hex
+[3] Binary -> Decimal
+[4] Binary -> Hex
+[5] Hex -> Decimal
+[6] Hex -> Binary
+[7] Exit & Save
+
+Select option[?]: 4
+-------------------------------------
+[4] Binary -> Hex
+
+Enter 32-bit Binary: 0010 1011 1010 1101 0111 0110 0011 1010
+[Binary] 00101011101011010111011000111010 = 2BAD763A [Hex]
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Decimal -> Binary
+[2] Decimal -> Hex
+[3] Binary -> Decimal
+[4] Binary -> Hex
+[5] Hex -> Decimal
+[6] Hex -> Binary
+[7] Exit & Save
+
+Select option[?]: 5
+-------------------------------------
+[5] Hex -> Decimal
+
+Enter Hexadecimal: 12345678
+[Hex] 12345678 = 305419896 [Decimal]
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Decimal -> Binary
+[2] Decimal -> Hex
+[3] Binary -> Decimal
+[4] Binary -> Hex
+[5] Hex -> Decimal
+[6] Hex -> Binary
+[7] Exit & Save
+
+Select option[?]: 5
+-------------------------------------
+[5] Hex -> Decimal
+
+Enter Hexadecimal: 2A3DF8A7
+[Hex] 2A3DF8A7 = 708704423 [Decimal]
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Decimal -> Binary
+[2] Decimal -> Hex
+[3] Binary -> Decimal
+[4] Binary -> Hex
+[5] Hex -> Decimal
+[6] Hex -> Binary
+[7] Exit & Save
+
+Select option[?]: 5
+-------------------------------------
+[5] Hex -> Decimal
+
+Enter Hexadecimal: 00FF00FF
+[Hex] 00FF00FF = 16711935 [Decimal]
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Decimal -> Binary
+[2] Decimal -> Hex
+[3] Binary -> Decimal
+[4] Binary -> Hex
+[5] Hex -> Decimal
+[6] Hex -> Binary
+[7] Exit & Save
+
+Select option[?]: 6
+-------------------------------------
+[6] Hex -> Binary
+
+Enter Hexadecimal: 12345678
+[Hex] 12345678 = 0001 0010 0011 0100 0101 0110 0111 1000 [Binary]
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Decimal -> Binary
+[2] Decimal -> Hex
+[3] Binary -> Decimal
+[4] Binary -> Hex
+[5] Hex -> Decimal
+[6] Hex -> Binary
+[7] Exit & Save
+
+Select option[?]: 6
+-------------------------------------
+[6] Hex -> Binary
+
+Enter Hexadecimal: 2A3DF8A7
+[Hex] 2A3DF8A7 = 0010 1010 0011 1101 1111 1000 1010 0111 [Binary]
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Decimal -> Binary
+[2] Decimal -> Hex
+[3] Binary -> Decimal
+[4] Binary -> Hex
+[5] Hex -> Decimal
+[6] Hex -> Binary
+[7] Exit & Save
+
+Select option[?]: 6
+-------------------------------------
+[6] Hex -> Binary
+
+Enter Hexadecimal: 00FF00FF
+[Hex] 00FF00FF = 0000 0000 1111 1111 0000 0000 1111 1111 [Binary]
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Decimal -> Binary
+[2] Decimal -> Hex
+[3] Binary -> Decimal
+[4] Binary -> Hex
+[5] Hex -> Decimal
+[6] Hex -> Binary
+[7] Exit & Save
+
+Select option[?]: 1
+-------------------------------------
+[1] Decimal -> Binary
+
+Enter Decimal: -5
+[Error] Input out of range.
+Enter Decimal: -5
+[Error] Invalid input
+Enter Decimal: -5
+[Error] Invalid input
+Enter Decimal: 1
+[Decimal] 1 = 0000 0000 0000 0000 0000 0000 0000 0001 [Binary]
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Decimal -> Binary
+[2] Decimal -> Hex
+[3] Binary -> Decimal
+[4] Binary -> Hex
+[5] Hex -> Decimal
+[6] Hex -> Binary
+[7] Exit & Save
+
+Select option[?]: 2
+-------------------------------------
+[2] Decimal -> Hex
+
+Enter Decimal: -5
+[Error] Input out of range.
+Enter Decimal: -5
+[Error] Invalid input
+Enter Decimal: -5
+[Error] Invalid input
+Enter Decimal: 1
+[Decimal] 1 = 1 [Hex]
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Decimal -> Binary
+[2] Decimal -> Hex
+[3] Binary -> Decimal
+[4] Binary -> Hex
+[5] Hex -> Decimal
+[6] Hex -> Binary
+[7] Exit & Save
+
+Select option[?]: 3
+-------------------------------------
+[3] Binary -> Decimal
+
+Enter 32-bit Binary: -5000
+[Error] Invalid input
+Enter 32-bit Binary: 100000000000000000000000000000000000000000001
+[Error] Input must be up to 32-bits
+Enter 32-bit Binary: HELLO WORLD
+[Error] Invalid input
+Enter 32-bit Binary: 0001
+[Binary] 0001 = 1 [Decimal]
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Decimal -> Binary
+[2] Decimal -> Hex
+[3] Binary -> Decimal
+[4] Binary -> Hex
+[5] Hex -> Decimal
+[6] Hex -> Binary
+[7] Exit & Save
+
+Select option[?]: 4
+-------------------------------------
+[4] Binary -> Hex
+
+Enter 32-bit Binary: -5000
+[Error] Invalid input
+Enter 32-bit Binary: 1000000000000000000000000000000000000000001
+[Error] Input must be up to 32-bits
+Enter 32-bit Binary: HELLO WORLD
+[Error] Invalid input
+Enter 32-bit Binary: 0001
+[Binary] 0001 = 00000001 [Hex]
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Decimal -> Binary
+[2] Decimal -> Hex
+[3] Binary -> Decimal
+[4] Binary -> Hex
+[5] Hex -> Decimal
+[6] Hex -> Binary
+[7] Exit & Save
+
+Select option[?]: 5
+-------------------------------------
+[5] Hex -> Decimal
+
+Enter Hexadecimal: ZYX12345
+[Error] Invalid input
+Enter Hexadecimal: ABCCCCCCCCCCCC
+[Error] Input must have length 8 or lower
+Enter Hexadecimal: -519GKOP
+[Error] Invalid input
+Enter Hexadecimal: 1
+[Hex] 1 = 1 [Decimal]
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Decimal -> Binary
+[2] Decimal -> Hex
+[3] Binary -> Decimal
+[4] Binary -> Hex
+[5] Hex -> Decimal
+[6] Hex -> Binary
+[7] Exit & Save
+
+Select option[?]: 6
+-------------------------------------
+[6] Hex -> Binary
+
+Enter Hexadecimal: zYX421456t
+[Error] Input must have length 8 or lower
+Enter Hexadecimal: -5rqwp
+[Error] Invalid input
+Enter Hexadecimal: 12345ZP
+[Error] Invalid input
+Enter Hexadecimal: 1
+[Hex] 1 = 0000 0000 0000 0000 0000 0000 0000 0001 [Binary]
+  _________________________________  
+<| ========   Main Menu   ======== |>
+<|_________________________________|>
+[1] Decimal -> Binary
+[2] Decimal -> Hex
+[3] Binary -> Decimal
+[4] Binary -> Hex
+[5] Hex -> Decimal
+[6] Hex -> Binary
+[7] Exit & Save
+
+Select option[?]: 99
+[Error] Invalid option, enter again: 99
+[Error] Invalid option, enter again: -5
+[Error] Invalid option, enter again: 7

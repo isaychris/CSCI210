@@ -1,0 +1,54 @@
+//Infix to Postfix conversion 
+
+Infix: 8+4*2-6
+Postfix: 842*+6-
+Result: 10
+
+Infix: 7*2-4*3+2*5
+Postfix: 72*43*-25*+
+Result: 12
+
+Infix: 2*3*4-8+9/3/3
+Postfix: 23*4*8-93/3/+
+Result: 17
+
+Infix: 5+7*4-6
+Postfix: 574*+6-
+Result: 27
+
+Infix: 4*(3+2*4)-7
+Postfix: 4324*+*7-
+Result: 37
+
+Infix: (5+7)/(9-5)
+Postfix: 57+95-/
+Result: 3
+
+Infix: 3*(5*(5-2))-9
+Postfix: 3552-**9-
+Result: 36
+
+Infix: ((5*(4+2)-(8+8)/2)-9)^3
+Postfix: 542+*88+2/-9-3^
+Result: 2197
+
+Infix: ((5+5*(6-2)+4^2)*8)
+Postfix: 5562-*+42^+8*
+Result: 328
+
+Infix: (((3^4)))
+Postfix: 34^
+Result: 81
+
+Infix: 1+*2
+[Error] Adjacent operators
+
+Infix: 12*3^4
+[Error] Adjacent operands
+
+Infix: (1+2
+[Error] missing parenthesis
+
+Infix: (1+2)*3)
+[Error] extra parenthesis
+
